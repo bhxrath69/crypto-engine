@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+venv/
+.env
+*.log
+build/
+*.o
+*.out
+node_modules/
+.DS_Store
+
+# secrets / generated crypto artifacts
+*.pem
+*.bin
+
+# unrelated files living in this folder
+*.pdf
